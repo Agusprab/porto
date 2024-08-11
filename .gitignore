@@ -9,10 +9,7 @@
 # production
 /build
 
-#assets
-/src/assets/images
-/src/assets/css
-/src/assets/career
+
 
 # misc
 .DS_Store
