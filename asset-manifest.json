@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/porto/static/css/main.50e64c91.css",
-    "main.js": "/porto/static/js/main.d893ac7b.js",
+    "main.js": "/porto/static/js/main.87f0d2c0.js",
     "static/media/lsp.jpg": "/porto/static/media/lsp.22ebdc7192038c121d68.jpg",
     "static/media/event-unpam.png": "/porto/static/media/event-unpam.683132f67a143970336a.png",
+    "static/media/cv.jpg": "/porto/static/media/cv.e081da5834fd0d689a4d.jpg",
     "static/media/logic.jpg": "/porto/static/media/logic.3ebb167ae38e2f2a3282.jpg",
     "static/media/Instagram.png": "/porto/static/media/Instagram.9c33b735af50f1ecca4d.png",
     "static/media/fundamental_react.jpg": "/porto/static/media/fundamental_react.4bf7c2a2c2e6f94d6bf6.jpg",
@@ -16,7 +17,6 @@
     "static/media/expert_react.jpg": "/porto/static/media/expert_react.31ec90ed5d08f396acec.jpg",
     "static/media/git.jpg": "/porto/static/media/git.3699413a132827a2bebf.jpg",
     "static/media/dasar_pemprog.jpg": "/porto/static/media/dasar_pemprog.a92b1714b547f1ce93f0.jpg",
-    "static/media/cv.jpg": "/porto/static/media/cv.67d39f723bd4dc6ef9d0.jpg",
     "static/media/GitHub.png": "/porto/static/media/GitHub.93cab583945605654f08.png",
     "static/media/Gmail.png": "/porto/static/media/Gmail.579cd64f6960247ba4df.png",
     "static/media/smk12.png": "/porto/static/media/smk12.3393ace75d4334131faf.png",
@@ -111,10 +111,10 @@
     "static/media/vuetifyjs.svg": "/porto/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/porto/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.50e64c91.css.map": "/porto/static/css/main.50e64c91.css.map",
-    "main.d893ac7b.js.map": "/porto/static/js/main.d893ac7b.js.map"
+    "main.87f0d2c0.js.map": "/porto/static/js/main.87f0d2c0.js.map"
   },
   "entrypoints": [
     "static/css/main.50e64c91.css",
-    "static/js/main.d893ac7b.js"
+    "static/js/main.87f0d2c0.js"
   ]
 }
